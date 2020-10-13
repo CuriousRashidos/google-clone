@@ -1,6 +1,6 @@
-##Google clone
+## Google clone
 
-#functionalities:
+# functionalities:
 That's it, it simply searches like uncle google ¯\_(ツ)_/¯ 
 
 Hosted on:
